@@ -1,0 +1,114 @@
+/* Dark Theme */
+body {
+    background-color: #121212;
+    color: #E0E0E0;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #ffffff;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #1E1E1E;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+input, button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 15px 0;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+}
+
+input {
+    background-color: #2C2C2C;
+    color: #ffffff;
+    border: 1px solid #444;
+}
+
+input::placeholder {
+    color: #888;
+}
+
+button {
+    background-color: #1E88E5;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #1565C0;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+form input {
+    width: 48%;  /* Half width for inputs in forms */
+}
+
+form button {
+    width: 100%;  /* Full width for the submit button */
+}
+
+a {
+    color: #1E88E5;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1565C0;
+    text-decoration: underline;
+}
+
+/* Portfolio and transaction styling */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    background-color: #2C2C2C;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+/* Center alignment */
+.center {
+    text-align: center;
+}
+
+/* Additional styling for dashboard sections */
+.section {
+    margin-bottom: 30px;
+}
+
+.section h2 {
+    margin-bottom: 15px;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #444;
+    background-color: #2C2C2C;
+    color: #fff;
+}
+

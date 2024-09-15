@@ -1,0 +1,14 @@
+{
+    "krishnadipayan108@gmail.cm": {
+        "password": "scrypt:32768:8:1$eG1chDPjMmunXo9n$de97c1d7a692d38f9a5fdf3d24e065a0d54e85429bbb9f2118f27ddb8d35e83bdae95d351ff795cf69f171ce406b431dc61b669dfc4355ab7adcccc4492c6fc0",
+        "balance": 100000,
+        "portfolio": {},
+        "transactions": []
+    },
+    "dipayantrades@gmail.com": {
+        "password": "scrypt:32768:8:1$5nixVgSceTNv4GZm$484aa84fc15c504a2690cbaa10da7eedcab727e6a5efa6f29e094a81ce5f2a85892e1c3f62d9afde8f1de199c2edd95c905adae735d7a88fc6c1ed267ac1dd5e",
+        "balance": 100000,
+        "portfolio": {},
+        "transactions": []
+    }
+}
